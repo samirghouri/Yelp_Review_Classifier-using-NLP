@@ -6,3 +6,5 @@ https://www.kaggle.com/c/yelp-recsys-2013
 
 We have used the pipeline method for the complex task.
 
+You can also check out the code by clicking the below link:
+https://nbviewer.jupyter.org/github/samirghouri/Yelp_Review_Classifier-using-NLP/blob/master/Yelp_review%20classifier.ipynb
